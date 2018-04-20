@@ -1,0 +1,229 @@
+body{
+	margin: 0;
+}
+#cabecalhoSoft{
+	width: 100%;
+	height: 800px;
+	background-image: url(assets/images/homebg.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.navegacao{
+	width: 100%;
+	height: 117px;
+	display: flex;
+	align-items: center;
+	background: #fff;
+}
+.menuLogo{
+	width: 199px;
+	height: 36px;
+	margin-left: 180px;
+}
+.menuBar{
+	margin-left: 230px;
+}
+.menuLink{
+	padding: 10px;
+	text-transform: uppercase;
+	font-size: 18px;
+	text-decoration: none;
+	color: #000;
+	font-family: 'robotoregular';
+}
+.menuLink:hover{
+	color: #82CA9C;
+}
+.menuLogin{
+	width: 160px;
+	height: 48px;
+	border-radius: 50px;
+	text-transform: uppercase;
+	border: 1.3px solid #82CA9C;
+	background: #fff;
+	font-size: 16px;
+	margin-left: 39px;
+	text-decoration: none;
+	color: #82CA9C;
+	font-family: 'robotoregular';
+}
+.sectionCabecalho{
+	width: 100%;
+	margin-top: 15vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.sectionCabecalho-item1{
+	width: 841px;
+	height: 26px;
+	font-family: 'robotoregular';
+	font-size: 45px;
+	text-align: center;
+	color: #fff;
+}
+.sectionCabecalho-item2{
+	width: 958px;
+	height: 63px;
+	font-family: 'robotoregular';
+	font-size: 17px;
+	text-align: center;
+	color: #fff;
+}
+.formEmail{
+	width: 100%;
+	margin-top: 8vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.formItem{
+	width: 363px;
+	height: 82px;
+	font-family: 'robotoregular';
+	font-size: 14px;
+	color: #919191;
+}
+.formBotao{
+	width: 202px;
+	height: 88px;
+	font-family: 'robotoregular';
+	font-size: 20px;
+	color: #fff;
+	background: #82CA9C;
+	text-decoration: none;
+}
+.conteudoPrincipal{
+	width: 100%;
+}
+.sectionParg1{
+	display: flex;
+}
+.text1{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	margin-left: 90px;
+	margin-top: 32px;
+}
+.featureImage1{
+	width:  68%;
+	margin-left: 100px;
+}
+.textProduct{
+	width: 438px;
+	height: 70px;
+	text-transform: uppercase;
+	font-family: 'robotoregular';
+	font-size: 50px;
+	color: #292929;
+}
+.Parg{
+	width: 537px;
+	font-family: 'robotoregular';
+	font-size: 20px;
+	text-align: left;
+	color: #292929;
+}
+.theLink{
+	width: 156px;
+	height: 62px;
+	margin-top: 4vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 18px;
+	color: #fff;
+	text-decoration: none;
+	font-family: 'robotoregular';
+	background: #82CA9C;
+}
+.sectionParg2{
+	display: flex;
+	margin-top: 15vh;
+}
+.featureImage2{
+	width:  38%;
+	margin-left: 67px;
+	margin-right: 15vh;
+}
+.text2{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	margin-left: 28vh;
+	margin-top: 32px;
+}
+.textDescription{
+	font-family: 'robotoregular';
+	text-transform: uppercase;
+	font-size: 50px;
+	color: #292929;
+}
+.sectionSoft{
+	margin-top: 28vh;
+	height: 28vh;
+	background: #F7F7F7;
+}
+.sectionFlaticon1{
+	width: 100%;
+	height: 39vh;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+	background: #F7F7F7;
+}
+.sectionFlaticon2{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+	background: #F7F7F7;
+}
+.flaticonContect{
+	display: flex;
+	flex-direction: column;
+}
+.serviceSoft-item1{
+	width: 100%;
+	height: 70px;
+	font-size: 50px;
+	text-transform: uppercase;
+	font-family: 'robotoregular';
+	text-align: center;
+	color: #292929;
+}
+.serviceSoft-item2{
+	width: 100%;
+	height: 46px;
+	font-size: 20px;
+	font-family: 'robotoregular';
+	text-align: center;
+	color: #292929;
+}
+.flaticon1{
+	width: 100%;
+}
+.flaticonImage{
+	width: 85.45px;
+}
+.flaticonItem1{
+	width: 148px;
+	height: 35px;
+	margin-left: 22px;
+	text-transform: uppercase;
+	font-size: 30px;
+	font-family: 'robotoregular';
+	color: #292929;
+}
+.flaticonItem2{
+	width: 323px;
+	height: 84px;
+	margin-left: 22px;
+	font-size: 20px;
+	font-family: 'robotoregular'; 	
+	color: #6E6E6E;
+}
