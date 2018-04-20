@@ -227,3 +227,103 @@ body{
 	font-family: 'robotoregular'; 	
 	color: #6E6E6E;
 }
+.pricePanel{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+.panel__Price{
+	width: 387px;
+	height: 153px;
+	border: #82CA9C solid 1px;
+}
+.Price__item__1{
+	font-size: 24px;
+	text-align: center;
+	font-family: 'robotoregular';
+}
+.Price__item__2{
+	font-size: 20px;
+	text-align: center;
+	font-family: 'robotoregular';
+}
+.itemPrice__1{
+	height: 70px;
+	font-family: 'robotoregular';
+	text-align: center;
+	font-size: 50px;
+}
+.itemPrice__2{
+	height: 63px;
+	font-family: 'robotoregular';
+	text-align: center;
+	font-size: 20px;
+}
+.Panel__Content{
+	border: #82CA9C solid 1px;
+}
+.specificationsItem{
+	height: 36px;
+	text-align: center;
+	font-family: 'robotoregular';
+}
+.botaoPanel__item{
+	width: 387px;
+	height:  72px;
+	font-family: 'robotoregular';
+	font-size: 20px;
+	color: #fff;
+	background: #82CA9C;
+}
+.sectionBusiness{
+	width: 100%;
+	margin-top: 22vh;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.sectionBusiness__2{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 26vh;
+}
+.sectionBusiness__{
+	width: 100%;
+}
+.sectionBusiness__1{
+	height: 70px;
+	font-size: 50px;
+	color: #292929;
+	text-align: center;
+	font-family: 'robotoregular';
+}
+.sectionBusiness__2{
+	height: 63px;
+	font-size: 20px;
+	color: #292929;
+	text-align: center;
+	font-family: 'robotoregular';
+}
+.business{
+	width: 100%;
+}
+.business__Item1{
+	width: 46.34px;
+	margin-left: 82px;
+}
+.business__Item2{
+	height: 21px;
+	text-align: center;
+	font-size: 18px;
+	font-family: 'robotoregular';
+}
+.business__Item3{
+	width: 210px;
+	height: 130px;
+	text-align: center;
+	font-size: 12px;
+	font-family: 'robotoregular';
+}
